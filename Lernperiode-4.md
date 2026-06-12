@@ -76,6 +76,8 @@ Keine Schule
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
+Ich abe sehr grosse fortschritte gemacht, bin aber nicht fertig
+
 
 ------------------------------------------------------------Keine Schule
  feinPlanung 19.05.2026:
