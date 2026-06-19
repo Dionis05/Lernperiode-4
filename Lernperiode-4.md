@@ -70,7 +70,7 @@ Heute habe ich sehr grosse Fortschritte an meinem Roblox-Projekt gemacht, bin ab
 
 ## Planung 19.06.2026
 
-Keine Schule.
+Ich arbeite wieter an meine roblox projekt 
 
 - [ ] ...
 - [ ] ...
