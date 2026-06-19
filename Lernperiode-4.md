@@ -1,94 +1,85 @@
-# Lernperiode-4
-Lernperiode 4
+# Lern-Periode 4
 
-Grobplanung 
+Name: Dionis Beqa
 
-Noten
-- Ich habe stand jetzt eine gute Informatik Note und bin stolz auf sie.
+24.04.2025 bis 19.06.2026
 
-Ziele:
-- Ich versuche mich zu bessern, und im Unterricht konstruktiv zu arbeiten.
-- Ich versuche meine Informatikskills zu verbessern und erweitern
+## Grob-Planung
 
+### Noten
 
-------------------------------------------------------------
+Stand jetzt habe ich eine gute Informatik-Note und bin stolz darauf. In diesem Modul fühle ich mich sicher und möchte dieses Niveau halten. Bei den Klassen in C# habe ich noch Lücken, die ich gerne schliessen würde.
 
- feinPlanung 24.04.2025:
- 1.)  An Arduino arbeiten 
- 2.)  An einem neuen Projekt arbeiten
- 3.) 
+### Veränderungen
 
+Im Vergleich zur letzten Lernperiode möchte ich mich verbessern und im Unterricht konstruktiver arbeiten. Ich will fokussierter an meinen Aufgaben dranbleiben und die Zeit besser einteilen, damit ich auch für schwierigere Themen (wie Klassen in C#) genügend Zeit finde.
 
+### Projekte / neue Technologien
 
+In dieser Lernperiode möchte ich an meinem Arduino weiterarbeiten und ein neues Projekt starten. Zusätzlich arbeite ich an meinem Roblox-Projekt mit Claude und möchte das Konzept der Klassen in C# endlich richtig verstehen.
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+### Generelle Ziele
 
-------------------------------------------------------------------------------------------------------------------------
+Ich versuche, meine Informatik-Skills zu verbessern und zu erweitern. Konkret will ich: (1) mein Projekt fertigstellen, (2) Klassen in C# verstehen und anwenden können, und (3) im Unterricht konstruktiv mitarbeiten.
 
- feinPlanung 08.05.2026:
- 1.)  An Projekt arbeiten
- 2.)  Die klassen in C sharp versuchen zu verstehen, weil ich es immernoch nicht checke.
- 3.) 
+## Planung 24.04.2025
 
+- [x] An Arduino arbeiten
+- [x] An einem neuen Projekt arbeiten
+- [ ] ...
 
+## Planung 08.05.2026
 
+- [x] An Projekt arbeiten
+- [ ] Die Klassen in C# verstehen
+- [ ] ...
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+### Reflexion 08.05.2026
 
-In dieser Lernperiode habe ich an meinem Projekt gearbeitet, ich habe leider noch nicht verstanden was die Klassen sind, dafür habe ich leider keine zeit gefunden.
+In dieser Lernperiode habe ich an meinem Projekt gearbeitet und bin gut vorangekommen. Leider habe ich noch nicht verstanden, was Klassen sind, weil ich dafür keine Zeit gefunden habe. Diesen Punkt nehme ich mir für die nächsten Halbtage vor und plane bewusst Zeit dafür ein, damit ich das Thema nicht weiter aufschiebe.
 
-------------------------------------------------------------
-Keine Schule
- feinPlanung 15.05.2026:
- 1.)  
- 2.)  
- 3.) 
+## Planung 15.05.2026
 
+Keine Schule.
 
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
+## Planung 22.05.2026
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+- [x] An Projekt arbeiten
+- [ ] ...
+- [ ] ...
 
-------------------------------------------------------------
- feinPlanung 22.05.2026:
- 1.)  An Projekt arbeiten
- 2.)  
- 3.) 
+### Reflexion 22.05.2026
 
+Heute habe ich an meinem Projekt gearbeitet und bin sehr weit gekommen – ich bin fast fertig, was mich schon einigermassen stolz macht. Die Arbeit lief flüssig und ich konnte mich gut konzentrieren. Im nächsten Schritt möchte ich die letzten offenen Punkte abschliessen und das Projekt sauber fertigstellen.
 
+## Planung 12.06.2026
 
+Keine Schule.
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
-Ich habe an meinem Projekt gearbeitet, wo ich sehr vorwärts gekommen bin und fast fertig bin, was mich schon einigermassen stolz macht.
-------------------------------------------------------------
-Keine Schule
- feinPlanung 12.06.2026:
- 1.)  Ich arbeite an meinem Roblox Projekt mit claude
- 2.)  Ich schaue, das ich weit komme, was ich auch hoffe
- 3.) 
+- [x] An meinem Roblox-Projekt mit Claude arbeiten
+- [x] Möglichst weit kommen
+- [ ] ...
 
+### Reflexion 12.06.2026
 
+Heute habe ich sehr grosse Fortschritte an meinem Roblox-Projekt gemacht, bin aber noch nicht ganz fertig. Die Zusammenarbeit mit Claude hat mir geholfen, schneller voranzukommen und Probleme schneller zu lösen. Beim nächsten Mal möchte ich die letzten Teile abschliessen und das Projekt zum Laufen bringen.
 
+## Planung 19.06.2026
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
-Ich abe sehr grosse fortschritte gemacht, bin aber nicht fertig
+Keine Schule.
 
+- [ ] ...
+- [ ] ...
+- [ ] ...
 
-------------------------------------------------------------Keine Schule
- feinPlanung 19.05.2026:
- 1.)  
- 2.)  
- 3.) 
+### Reflexion 19.06.2026
 
-
-
+Heute mache ich diese Planungsdatei neu und richte sie für den heutigen Tag ein. Ich habe die bisherigen Notizen aus der Lernperiode zusammengetragen, sauber strukturiert und die Reflexionen ausformuliert. So habe ich einen klaren Überblick über meine Fortschritte und kann gezielter weiterplanen.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
 
-------------------------------------------------------------
+In dieser Lernperiode habe ich vor allem an meinen eigenen Projekten gearbeitet und bin dabei sehr weit gekommen – mein Hauptprojekt ist fast fertig und beim Roblox-Projekt mit Claude habe ich grosse Fortschritte gemacht. Stolz bin ich auf meine gute Informatik-Note und auf mein Durchhaltevermögen bei den Projekten. Nicht geschafft habe ich es, die Klassen in C# zu verstehen, weil mir die Zeit dafür fehlte. Das nehme ich als wichtigstes Ziel in die nächste Lernperiode mit und plane bewusst Zeit dafür ein.
