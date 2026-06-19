@@ -84,6 +84,4 @@ Keine Schule.
 
 Heute habe ich weiter an meinem Roblox-Projekt gearbeitet und bin dem Abschluss näher gekommen. Mein Plan ist klar: Sobald das Projekt fertig ist, beginne ich mit den Klassen in C#, weil ich dieses Thema noch nicht richtig verstanden habe. Ausserdem habe ich heute die Struktur meiner Planungsdatei überarbeitet, damit sie der Vorlage entspricht und übersichtlicher ist.
 
-## Lernperiode Reflexion
 
-In dieser Lernperiode habe ich vor allem an meinen eigenen Projekten gearbeitet und bin dabei sehr weit gekommen – mein Hauptprojekt ist fast fertig und beim Roblox-Projekt mit Claude habe ich grosse Fortschritte gemacht. Stolz bin ich auf meine gute Informatik-Note und auf mein Durchhaltevermögen bei den Projekten. Nicht geschafft habe ich es, die Klassen in C# zu verstehen, weil mir die Zeit dafür fehlte. Das nehme ich als wichtigstes Ziel in die nächste Lernperiode mit und plane bewusst Zeit dafür ein.
