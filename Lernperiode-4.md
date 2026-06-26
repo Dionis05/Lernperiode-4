@@ -94,7 +94,7 @@ Heute habe ich weiter an meinem Roblox-Projekt gearbeitet und bin dem Abschluss 
 
 ### Reflexion 26.06.2026
 
-
+ich bin sehr weit gekommen mit meinem Projekt, wasmich sehr glücklich macht, ich habe mir mühe gegeben und gut gearbeitet.
 
 
 
