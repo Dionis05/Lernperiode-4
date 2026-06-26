@@ -74,7 +74,7 @@ Heute habe ich sehr grosse Fortschritte an meinem Roblox-Projekt gemacht, bin ab
 
 ## Planung 19.06.2026
 
-Keine Schule.
+
 
 - [ ] Weiter am Roblox-Projekt arbeiten
 - [ ] Projekt möglichst fertigstellen
@@ -83,5 +83,18 @@ Keine Schule.
 ### Reflexion 19.06.2026
 
 Heute habe ich weiter an meinem Roblox-Projekt gearbeitet und bin dem Abschluss näher gekommen. Mein Plan ist klar: Sobald das Projekt fertig ist, beginne ich mit den Klassen in C#, weil ich dieses Thema noch nicht richtig verstanden habe. Ausserdem habe ich heute die Struktur meiner Planungsdatei überarbeitet, damit sie der Vorlage entspricht und übersichtlicher ist.
+
+## Planung 26.06.2026
+
+  
+
+- [ ] Weiter am Roblox-Projekt arbeiten
+- [ ] Langsam aber sicher fertig werden
+- [ ]
+
+### Reflexion 26.06.2026
+
+
+
 
 
